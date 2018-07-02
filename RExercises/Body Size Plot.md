@@ -6,7 +6,7 @@ plot(1:10, xlab="Geologic Time (Ma)", ylab="Biovolume (log10mm^3)", xlim=c(550,0
 
 chordata <- sizedata[which(sizedata[,"phylum"]=="Chordata"),]  
 arthropoda <- sizedata[which(sizedata[,"phylum"]=="Arthropoda"),]  
-brachiopoda <- sizedata[which(sizedata[,"phylum"]=="Brachiopoda"),]  
+brachiopoda <-sizedata[which(sizedata[,"phylum"]=="Brachiopoda"),]  
 echinodermata <- sizedata[which(sizedata[,"phylum"]=="Echinodermata"),]  
 mollusca <- sizedata[which(sizedata[,"phylum"]=="Mollusca"),]  
 
