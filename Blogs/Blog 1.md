@@ -17,6 +17,3 @@ Lastly, we have also been practicing programming in R and using github. While I 
 ![Body Size Plot](images/Blog_Body_Size_Plot.jpg)
   
 The next few weeks consists of field trips to New Brighton Beach and Pinnacles (YAY), starting the research project, and the same activities described above. I’m mainly excited to start my research (with Noah!) to study the relationship between motility level and body size for marine genera. I’m also eager to explore R’s capabilities in creating informative and beautiful figures for our research. It’s hard to imagine that 30% of the internship has already breezed by, but I’m looking forward to more.
-
-
-
