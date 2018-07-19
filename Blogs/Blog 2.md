@@ -9,7 +9,7 @@ Noel noted that we would be searching for fossils from the border of the Miocene
 
 ![Fossils Collected from Beach] (Images/Blog_Beach.jpg)
 
-At the beach, I got to interact more with the individual interns, with whom I ate lunch. After lunch, we headed to the UCSC Marine Science Institute, which had a beautiful view of the ocean and two large whale skeletons. I had never known about vestigial structures in the whale which indicate that whales used to live on land! While I love exploring the beach, I was hoping we would see tide pools. I LOVE TIDEPOOLS. I was recently in Washington State, where I participated in a tour with a naturalist. She took me to a quiet tide pool in Port Angeles, where I saw sea anemone, mussels, chiten, crabs, kelp, and sea worms everywhere. Thanks to Jenny and Noel, I now know where tidepools are in the Bay Area and how to track tides with an app, activities I will surely do once SEYI is over.  
+At the beach, I got to interact more with the individual interns, with whom I ate lunch. After lunch, we headed to the UCSC Marine Discovery Center, which had a beautiful view of the ocean and two large whale skeletons. I had never known about vestigial structures in the whale which indicate that whales used to live on land! While I love exploring the beach, I was hoping we would see tide pools. I LOVE TIDEPOOLS. I was recently in Washington State, where I participated in a tour with a naturalist. She took me to a quiet tide pool in Port Angeles, where I saw sea anemone, mussels, chiten, crabs, kelp, and sea worms everywhere. Thanks to Jenny and Noel, I now know where tidepools are in the Bay Area and how to track tides with an app, activities I will surely do once SEYI is over.  
 
 ![View from MSI] (Images/Blog_MSI.jpg)
 
